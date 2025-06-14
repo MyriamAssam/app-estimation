@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bati Québec Estimation</string>
+    <string name="acceuil">Click to know the costs of your projects</string>
+    <string name="typelogement">Type of housing</string>
+    <string name="pieces">Select the room</string>
+    <string name="materiaux"> Select the material</string>
+    <string name="prixmateriau">Enter the price of the material ($/m²)</string>
+    <string name="selections">Selections :</string>
+    <string name="ajout">Add the selection</string>
+    <string name="suivant">Next</string>
+    <string name="coutmain">Cost of the workforce ($/m²)</string>
+    <string name="couttotal">Calculate total price</string>
+    <string name="autrecouts">Other costs ($)</string>
+    <string name="resume">Summary :</string>
+    <string name="nouvelleestimation">New estimation</string>
+    <string name="surface">Enter the surface (m²)</string>
+    <string name="btn_change_language">FR</string>
+    <string name="toast_language_changed">Language changed!</string>
+    <string-array name="pieces">
+        <item>Kitchen</item>
+        <item>Bathroom</item>
+        <item>Living Room</item>
+        <item>Basement</item>
+        <item>Bedroom</item>
+        <item>Stairs</item>
+        <item>Exterior</item>
+        <item>Other Part of the House</item>
+    </string-array>
+    <string-array name="types">
+        <item>House</item>
+        <item>Appartement</item>
+        <item>Commercial</item>
+    </string-array>
+    <string-array name="materials_kitchen">
+        <item>Aluminum tiles</item>
+        <item>Ceramic tiles</item>
+        <item>Paint</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="materials_bathroom">
+        <item>Aluminum tiles</item>
+        <item>Ceramic tiles</item>
+        <item>Paint</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="materials_living_room">
+        <item>Parquet</item>
+        <item>Paint</item>
+        <item>Ceiling</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="materials_basement">
+        <item>Parquet</item>
+        <item>Paint</item>
+        <item>Ceiling</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="materials_bedroom">
+        <item>Parquet</item>
+        <item>Paint</item>
+        <item>Ceiling</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="materials_stairs">
+        <item>Parquet</item>
+        <item>Paint</item>
+        <item>Ceiling</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="materials_exterior">
+        <item>Wooden patio</item>
+        <item>Concrete patio</item>
+        <item>Balcony</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="materials_other">
+        <item>Parquet</item>
+        <item>Paint</item>
+        <item>Ceiling</item>
+        <item>Other</item>
+    </string-array>
+    <string name="toast_select_piece_material">Please select a room, a material, and enter surface and price.</string>
+    <string name="toast_add_element">Add at least one element.</string>
+    <string name="share_subject">Work estimation:</string>
+    <string name="share_type_logement">🏠 Type of housing: </string>
+    <string name="share_estimation">🛠️ Work estimation</string>
+    <string name="share_cout_main_oeuvre">👷 Workforce cost: </string>
+    <string name="share_autres_couts">💰 Other costs: </string>
+    <string name="share_total">💰 Total: </string>
+    <string name="share_no_result">No result to share</string>
+    <string name="share_chooser_title">Share via</string>
+    <string name="error_fill_fields">Please fill in all fields.</string>
+    <string name="soumissions">if you want to make quotes, download Bati Québec Soumissions.</string>
+</resources>

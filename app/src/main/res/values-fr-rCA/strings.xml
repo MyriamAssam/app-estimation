@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bati Québec Estimation</string>
+    <string name="acceuil">Appuyez pour connaitre le prix des travaux</string>
+    <string name="pieces">Sélectionnez les pièces à rénover</string>
+    <string name="materiaux"> Sélectionnez les matériaux</string>
+    <string name="prixmateriau">Entrez le prix du matériau ($/m²)</string>
+    <string name="selections">Sélections :</string>
+    <string name="ajout">Ajouter la sélection</string>
+    <string name="suivant">Suivant</string>
+    <string name="coutmain">Coût main-d\'œuvre ($/m²)</string>
+    <string name="couttotal">Calculer Coût Total</string>
+    <string name="autrecouts">Autre coûts ($)</string>
+    <string name="resume">Résumé :</string>
+    <string name="nouvelleestimation">Nouvelle estimation</string>
+    <string name="surface">Entrez la surface (m²)</string>
+    <string name="typelogement">Type de logement</string>
+    <string name="btn_change_language">EN</string>
+    <string name="toast_language_changed">Langue changée !</string>
+    <string-array name="types">
+        <item>Maison</item>
+        <item>Appartement</item>
+        <item>Commercial</item>
+    </string-array>
+
+    <!-- Pour les pièces -->
+    <string-array name="pieces">
+        <item>Cuisine</item>
+        <item>Salle de bain</item>
+        <item>Salon</item>
+        <item>Sous-sol</item>
+        <item>Chambre</item>
+        <item>Escaliers</item>
+        <item>Extérieur</item>
+        <item>Autre partie de la demeure</item>
+    </string-array>
+    <string-array name="materials_kitchen">
+        <item>Carrelage aluminium</item>
+        <item>Carrelage céramique</item>
+        <item>Peinture</item>
+        <item>Autre</item>
+    </string-array>
+
+    <string-array name="materials_bathroom">
+        <item>Carrelage aluminium</item>
+        <item>Carrelage céramique</item>
+        <item>Peinture</item>
+        <item>Autre</item>
+    </string-array>
+
+    <string-array name="materials_living_room">
+        <item>Parquet</item>
+        <item>Peinture</item>
+        <item>Plafond</item>
+        <item>Autre</item>
+    </string-array>
+    <string-array name="materials_basement">
+        <item>Parquet</item>
+        <item>Peinture</item>
+        <item>Plafond</item>
+        <item>Autre</item>
+    </string-array>
+    <string-array name="materials_bedroom">
+        <item>Parquet</item>
+        <item>Peinture</item>
+        <item>Plafond</item>
+        <item>Autre</item>
+    </string-array>
+    <string-array name="materials_stairs">
+        <item>Parquet</item>
+        <item>Peinture</item>
+        <item>Plafond</item>
+        <item>Autre</item>
+    </string-array>
+    <string-array name="materials_exterior">
+        <item>Patio en bois</item>
+        <item>Patio en béton</item>
+        <item>Balcon</item>
+        <item>Autre</item>
+    </string-array>
+    <string-array name="materials_other">
+        <item>Parquet</item>
+        <item>Peinture</item>
+        <item>Plafond</item>
+        <item>Autre</item>
+    </string-array>
+    <string name="toast_select_piece_material">Sélectionnez une pièce, un matériau et entrez surface et prix.</string>
+    <string name="toast_add_element">Ajoutez au moins un élément.</string>
+    <string name="share_subject">Estimation des travaux :</string>
+    <string name="share_type_logement">🏠 Type de logement : </string>
+    <string name="share_estimation">🛠️ Estimation des travaux</string>
+    <string name="share_cout_main_oeuvre">👷 Coût main-dœuvre : </string>
+    <string name="share_autres_couts">💰 Autres coûts : </string>
+    <string name="share_total">💰 Total : </string>
+    <string name="share_no_result">Aucun résultat à partager</string>
+    <string name="share_chooser_title">Partager via</string>
+    <string name="error_fill_fields">Veuillez remplir tous les champs.</string>
+    <string name="soumissions">Si vous voulez faire une soumission, téléchargez Bati Québec soumissions.</string>
+</resources>
